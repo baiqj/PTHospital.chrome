@@ -13,7 +13,7 @@
 			"19": "res/pt_256.png",
 			"38": "res/pt_256.png"
 		},
-		"default_title": "网站是莆田系医院网址，请谨慎！",
+		"default_title": "UDN社区提醒您，该网站是莆田系医院网址，请谨慎就医！",
 		"default_popup": "res/popup.html"
 	},
 	"content_scripts": [{
